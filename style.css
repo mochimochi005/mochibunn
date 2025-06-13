@@ -25,9 +25,9 @@ img{
     width: 25%;
     transition: 300ms;
     border-radius: 10px;
-    border: 5px dotted rgba(133, 17, 139, 1);
+    border: 5px solid rgba(133, 17, 139, 1);
 }
 img:hover {
     width: 30%;
-    opacity: 30%
+    opacity: 20%
 }
