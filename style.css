@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(179, 73, 255)
+}
+p {
+  font-family: helvetica;
+  color: pink;
+  background-color: rgb(128, 89, 235);
+}
+
+button {
+  transition:  200ms; 
+  border: none;
+  border-radius: 5px;
+  box-shadow: none;
+  background-color: aquamarine;
+  border-color: rgb(235, 255, 248);
+
+}
+
+ button:hover {
+  opacity: 30%;
+  font-size: 125%;
+}
+img{
+    width: 25%;
+    transition: 300ms;
+    border-radius: 10px;
+    border: 5px dotted rgba(133, 17, 139, 1);
+}
+img:hover {
+    width: 30%;
+    opacity: 30%
+}
